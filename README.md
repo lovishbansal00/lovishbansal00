@@ -1,5 +1,5 @@
 <h1 align="center">Lovish Bansal</h1>
-<h4 align="center">Hi 👋! I am a passionate software developer. Be it frontend or backend, both technologies amazes me to do little wonder.</h4>
+<h4 align="center">Hi 👋! I am a passionate software developer. i turn figma designs into responsive webapps.</h4>
 
 ###
 
